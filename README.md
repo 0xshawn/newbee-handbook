@@ -1,4 +1,5 @@
-# Newbee Handbook
+# 新手入门指南
+
 
 ## Mac OS
 
@@ -16,3 +17,15 @@ Mac OS X 10.11.1
 * 编辑器，推荐 Vim/Emacs/Sublime Text 3
 * Terminal: iTerm
 * shell: oh-my-zsh
+
+## Python 小试牛刀
+
+算法答题完成 Leetcode #1, #2, #3
+
+要求：使用 Python 语言并通过
+
+### 参考
+
+1. [Python 精要参考](http://wiki.woodpecker.org.cn/moin/WeiZhong/2006-01-17)
+2. [Python 入门指南](http://www.pythondoc.com/pythontutorial3/)
+3. [The Python Tutorial](https://docs.python.org/2.7/tutorial/index.html)
