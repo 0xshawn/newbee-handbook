@@ -17,6 +17,9 @@ Mac OS X 10.11.1
 * 编辑器，推荐 Vim/Emacs/Sublime Text 3
 * Terminal: iTerm
 * shell: oh-my-zsh
+* 用 brew 安装 git, python
+* 用 pip 安装 virtualenv，并使用 virtualenv 配置虚拟环境
+
 
 ## Python 小试牛刀
 
