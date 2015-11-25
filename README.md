@@ -39,8 +39,26 @@ Mac OS X 10.11.1
 1. 使用 Python 语言并通过；
 2. 提交到之前的 github 项目中。
 
-### 参考
+### Python 语言学习参考
 
 1. [Python 精要参考](http://wiki.woodpecker.org.cn/moin/WeiZhong/2006-01-17)
 2. [Python 入门指南](http://www.pythondoc.com/pythontutorial3/)
 3. [The Python Tutorial](https://docs.python.org/2.7/tutorial/index.html)
+
+## 编辑器 VIM 使用
+
+学习 Vim 的基本操作，完成一下步骤：
+1. 编辑一个新文件
+2. 增加内容
+3. 编辑、删除内容
+4. undo/redo
+5. 保存退出
+6. 再编辑不保存退出
+
+参考：[简明 VIM 练级攻略](http://coolshell.cn/articles/5426.html)
+## Linux 环境
+
+1. 生成密匙，包括公钥、私钥；密匙长度4096位
+2. 配置.ssh/config，使用私钥登录开发服务器
+3. 使用 virtualenv 配置自己的 python 虚拟环境
+4. 使用 SimpleHTTPServer 模块运行一个 HTTP 服务，并在本地（mac 机器）下载一个文件
