@@ -3,14 +3,14 @@
 
 ## Mac OS
 
-### 更新系统
+#### 更新系统
 Mac OS X 10.11.1
 
-### 安装 Xcode
+#### 安装 Xcode
 * Xcode
 * Xcode commandline tools
 
-### 常用系统工具安装
+#### 常用系统工具安装
 带*号的是必须安装，其他推荐
 
 * [*] 安装 brew 工具，参考 http://brew.sh
@@ -39,7 +39,7 @@ Mac OS X 10.11.1
 1. 使用 Python 语言并通过；
 2. 提交到之前的 github 项目中。
 
-### Python 语言学习参考
+#### Python 语言学习参考
 
 1. [Python 精要参考](http://wiki.woodpecker.org.cn/moin/WeiZhong/2006-01-17)
 2. [Python 入门指南](http://www.pythondoc.com/pythontutorial3/)
