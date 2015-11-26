@@ -48,6 +48,7 @@ Mac OS X 10.11.1
 ## 编辑器 VIM 使用
 
 学习 Vim 的基本操作，完成一下步骤：
+
 1. 编辑一个新文件
 2. 增加内容
 3. 编辑、删除内容
@@ -59,6 +60,7 @@ Mac OS X 10.11.1
 ## Linux 环境
 
 1. 生成密匙，包括公钥、私钥；密匙长度4096位
-2. 配置.ssh/config，使用私钥登录开发服务器
-3. 使用 virtualenv 配置自己的 python 虚拟环境
-4. 使用 SimpleHTTPServer 模块运行一个 HTTP 服务，并在本地（mac 机器）下载一个文件
+2. 使用密匙提交 github 代码
+3. 配置.ssh/config，使用私钥登录开发服务器
+4. 使用 virtualenv 配置自己的 python 虚拟环境
+5. 使用 SimpleHTTPServer 模块运行一个 HTTP 服务，并在本地（mac 机器）下载一个文件
