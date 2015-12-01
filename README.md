@@ -26,9 +26,9 @@ Mac OS X 10.11.1
 
 ## github 使用
 
-1. 注册 github 帐户
-2. 创建一个新项目
-3. 添加一个 README.md 文件，并提交到项目中
+1. 注册 github 帐户；
+2. 创建一个新项目；
+3. 添加一个 README.md 文件，并提交到项目中。
 
 ## Python 小试牛刀
 
@@ -49,12 +49,18 @@ Mac OS X 10.11.1
 
 学习 Vim 的基本操作，完成一下步骤：
 
-1. 编辑一个新文件
-2. 增加内容
-3. 编辑、删除内容
-4. undo/redo
-5. 保存退出
-6. 再编辑不保存退出
+1. 编辑一个新文件；
+2. 增加内容；
+3. 编辑、删除内容；
+4. undo/redo；
+5. 保存退出；
+6. 再编辑不保存退出。
+
+## MySQL 环境准备
+1. 在 mac 上用 `brew` 安装 MySQL；
+2. 创建数据库，名称为 `reformation_development`；
+2. 创建数据库用户，并赋予该用户 `reformation_development.*`的权限；
+3. 用 `mysql` 命令登录数据库，测试数据库的连通性。
 
 参考：[简明 VIM 练级攻略](http://coolshell.cn/articles/5426.html)
 ## Linux 环境
