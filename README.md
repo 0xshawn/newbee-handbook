@@ -62,6 +62,12 @@ Mac OS X 10.11.1
 2. 创建数据库用户，并赋予该用户 `reformation_development.*`的权限；
 3. 用 `mysql` 命令登录数据库，测试数据库的连通性。
 
+## Nginx 环境准备
+1. 在 Mac 上使用 `brew` 安装 NGINX；
+2. 修改 nginx 的配置，将 `location /`更改为你的静态文件目录；
+3. 配置 /api 等的路径，为动态转发请求；
+4. 启动、停止、重启 nginx 服务。
+
 参考：[简明 VIM 练级攻略](http://coolshell.cn/articles/5426.html)
 ## Linux 环境
 
