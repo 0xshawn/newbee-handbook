@@ -76,3 +76,21 @@ Mac OS X 10.11.1
 3. 配置.ssh/config，使用私钥登录开发服务器
 4. 使用 virtualenv 配置自己的 python 虚拟环境
 5. 使用 SimpleHTTPServer 模块运行一个 HTTP 服务，并在本地（mac 机器）下载一个文件
+
+## Flask 入门
+
+目标：
+
+实现一个 API 服务器，实现查询美元对人民币汇率。
+
+接口要求：
+
+    GET /api/rate
+        Response data sample:
+            {'RMB_to_USD_rate': '0.16'}
+    POST /api/rate
+        Request data sample:
+            {'RMB': '233.00'}
+        Response data sample:
+            {'USD': '36.42'}
+        以及相对的，通过 USD 查询 RMB
